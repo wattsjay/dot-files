@@ -1,4 +1,4 @@
-theme = "tokyonight_storm"
+theme = "ayu_dark"
 [keys.normal]
 A-S-f = ":format"
 [keys.insert]
