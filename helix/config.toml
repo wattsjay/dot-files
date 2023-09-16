@@ -1,4 +1,4 @@
-theme = "ayu_dark"
+theme = "github_dark"
 [keys.normal]
 A-S-f = ":format"
 [keys.insert]

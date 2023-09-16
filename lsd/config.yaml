@@ -1,15 +1,11 @@
 classic: false
 
 blocks:
-  - permission
-  - user
-  - group
-  - size
-  - date
   - name
+  - date
 
 color:
-  when: auto
+  when: always
   theme: default
 
 date: date
@@ -46,4 +42,4 @@ hyperlink: never
 
 symlink-arrow: ⇒
 
-header: false
+header: true
